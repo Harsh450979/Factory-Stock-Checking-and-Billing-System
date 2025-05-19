@@ -1,0 +1,21 @@
+
+		XYZ-Inventory
+	 Phone No. 88884***** , Jalgaon-425001 
+===============================================
+ Customer Name :  Lucky
+ Contact Number :   9857452012
+ Bill No. : 24144650			Date : 24/ March / 2024
+===============================================
+ Product Name			Qty	Price
+===============================================
+        
+Apple Iphone			3	Rs.240000.0
+Apple Charger			1	Rs.2000.0
+Type C Charger			1	Rs.450.0
+===============================================
+ Bill Amount :				Rs.242450.0
+ Discount :				Rs.12122.5
+ Net Pay :				Rs.230327.5
+===============================================
+
+        
