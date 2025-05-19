@@ -1,6 +1,6 @@
 # Factory-Stock-Checking-and-Billing-System
 
-'Introduction to Project:'
+/nIntroduction to Project:
 This project is aimed at developing a desktop-based application named Factory Stock Checking and Billing System for managing the stock system of any organization. Factory Stock Checking and Billing System has been developed so that the user finds it extremely easy to use and requires minimum effort to use this software. Our software can be completely customized as per your specific needs. It based on minimal data entry, auto entry of prices as per item selected and auto calculation, and report of all Products availability and their Quantities. This system can be used to store the details of the stock, stock maintenance, update the stock based on the sales details, and generate sales and stock report daily
 
 Snapshots
